@@ -99,15 +99,23 @@ a{
     color: hsla(245, 75%, 52%, 0.668);
     cursor: pointer;
     text-decoration: none;
+    transition: 0.5s;
 }
 
 .payment:hover{
     background-color: hsla(245, 75%, 52%, 0.668);
     cursor: pointer;
+    transition: 0.5s;
 }
 
-a:hover{
+.cancel a:hover{
     color: var(--blue950);
+    transition: 0.5s;
+}
+
+.attribution a:hover{
+    font-weight: var(--font-weight-extrabold);
+    transition: 0.5s;
 }
 
 
@@ -210,7 +218,7 @@ p{
     text-decoration: underline;
 }
 
-a{
+.cancel a{
     font-weight: var(--font-weight-extrabold);
     text-decoration: none;
 }

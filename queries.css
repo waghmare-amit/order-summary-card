@@ -44,7 +44,15 @@
 
     html{
         /* 7px / 16px = 0.4375 */
-        font-size: 43.75%;
+        font-size: 30.75%;
+    }
+
+    .container{
+        width: 40%;
+    }
+
+    .attribution{
+        font-size: 5px;
     }
 }
 
