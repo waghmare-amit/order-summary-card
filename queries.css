@@ -1,4 +1,4 @@
-@media (min-width: 72rem){
+@media (min-width: 90rem){
     .container{
         min-width: 500px;
         min-height: 600px;
@@ -62,5 +62,10 @@
         background: url(images/pattern-background-mobile.svg) no-repeat top;
         background-size: 100%;
         background-color: var(--blue100);
+    }
+
+    .container{
+        min-width: 270px;
+        min-height: 340px;
     }
 }
