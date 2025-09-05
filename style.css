@@ -69,9 +69,13 @@ p{
     color: var(--gray600);
 }
 
-a{
+.cancel a{
     font-size: 1.2rem;
     color: var(--gray600);
+}
+
+.attribution a{
+    color: var(--blue100);
 }
 
 
@@ -239,7 +243,6 @@ p{
 }
 
 .attribution a{
-    color: var(--blue100);
     text-decoration: underline;
     text-decoration-color: var(--blue100);
     letter-spacing: 0.05rem;
