@@ -1,7 +1,7 @@
 @media (min-width: 90rem){
     .container{
         min-width: 400px;
-        min-height: 500px;
+        min-height: 520px;
     }
 }
 
@@ -17,7 +17,7 @@
 
     .container{
         width: 50%;
-        height: max-content;
+        height: min-content;
     }
 }
 
