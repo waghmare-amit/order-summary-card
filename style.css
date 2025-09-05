@@ -74,9 +74,6 @@ p{
     color: var(--gray600);
 }
 
-.attribution a{
-    color: var(--blue100);
-}
 
 
 
@@ -236,14 +233,9 @@ p{
 
     width: 100%;
     margin: 0 auto;
-
-    background-color: var(--blue700);
-    
-    color: var(--blue100);
 }
 
 .attribution a{
     text-decoration: underline;
-    text-decoration-color: var(--blue100);
     letter-spacing: 0.05rem;
 }
